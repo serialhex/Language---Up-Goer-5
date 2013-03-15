@@ -1,4 +1,4 @@
-# The Up Goer 5 Sublime Text Word Set!!!
+# The Up Goer 5 Sublime Text Word Set Add-On!!!
 
 ...or really any word set
 
